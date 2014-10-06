@@ -1,0 +1,7 @@
+*.orig
+*.DS_Store
+.codekit-cache/*
+git-ftp.py
+
+.sass-cache/*
+sass-mobile/.sass-cache/*
